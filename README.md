@@ -1,11 +1,11 @@
 
-# Cheat Sheets Collection
+# Cheat Sheets
 
-## About This Project
+## About this project
 
 Hey there! 👋 This project started as my personal reference library for those "how did I solve that again?" moments. I found myself repeatedly looking up the same solutions or commands, so I decided to organize everything in one place. Feel free to use them in your own projects!
 
-## Available Cheat Sheets
+## Available cheat sheets
 
 Below is an index of all currently available cheat sheets in this project:
 
