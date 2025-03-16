@@ -173,6 +173,8 @@ RUN if [ -f "requirements.txt" ]; then pip install -r requirements.txt; fi
 
 </details>
 
+More specific examples can be found in the `./examples` folder.
+
 ## Quick Links
 
 | Type                  | Link                                                                                                                                                                                         | Examples                                                                                                                    |
