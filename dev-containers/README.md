@@ -2,8 +2,7 @@
 
 This cheat sheet provides a quick reference for setting up and extending Dev Container configurations.
 
-## Table of Contents
-- [Table of Contents](#table-of-contents)
+**Table of Contents**
 - [What are Dev Containers](#what-are-dev-containers)
 - [Examples](#examples)
 - [Quick Links](#quick-links)
