@@ -16,7 +16,7 @@ Dev Containers provide a consistent development environment using containers. Th
 
 Want a more in-depth guide on Dev Containers? I've written a blog post that walks through how Dev Containers work, their benefits, and step-by-step instructions for getting started with your first Dev Container project.
 
-Check out the blog post: [Dev Containers: Developing inside a container - marcogerber.ch](https://marcogerber.ch/dev-containers-developing-inside-a-container)
+Check out the blog post: [Dev Containers: Develop inside a container - marcogerber.ch](https://marcogerber.ch/dev-containers-develop-inside-a-container)
 
 ## Examples
 
