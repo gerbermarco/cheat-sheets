@@ -1,0 +1,14 @@
+requests
+python_dotenv
+streamlit
+azure.identity
+azure-ai-projects
+azure-ai-inference
+azure-search-documents
+openai
+aiosqlite
+httpx
+aiohttp
+pandas
+pydantic
+pillow
